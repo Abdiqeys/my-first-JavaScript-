@@ -1,2 +1,2 @@
-# my-first-JavaScript-
+JavaScript
 Calculator
